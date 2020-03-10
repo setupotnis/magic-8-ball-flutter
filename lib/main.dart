@@ -17,10 +17,10 @@ class _BallState extends State<Ball> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.indigo,
       appBar: AppBar(
         title: Text('Ask Me Anything'),
-        backgroundColor: Colors.blue[800],
+        backgroundColor: Colors.black54,
       ),
       body: Container(
         child: Column(
